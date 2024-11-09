@@ -1,10 +1,4 @@
 O=C(CNCc1ccc(C(=O)N2CCCCC2)cc1)NC(=O)COc1ccccc1	CHEMBL2332247
 COc1ccc(-c2cc(-c3ccc4cc(F)ccc4n3)n(-c3ccc(S(N)(=O)=O)cc3)n2)cc1	CHEMBL4175102
-O=C(N[C@@H](Cc1ccc(O)cc1)C(=O)O)c1cc(-c2ccccc2)c(=O)n2c1sc1ccc(OC3CCCCC3)cc12	CHEMBL4526128
-CCCCCCCCCCCCNCCNC(=O)C[C@@]1(O)C[C@@H](O)[C@@H]2OC(C)(C)O[C@@H]2C1	CHEMBL4443913
-CCCCCCCCCCCCCCNCCNC(=O)C[C@]1(O)C[C@@H](O)[C@@H](O)[C@H](O)C1.Cl	CHEMBL4572441
 O=C1[C@H](CC[C@H](O)c2ccc(F)cc2)[C@@H](c2ccc(O)cc2)N1c1ccc(F)cc1	CHEMBL1138
 CC(=O)O[C@H]1C[C@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5C[C@@H](O)[C@]5(C)[C@@H](C7=CC(=O)OC7)CC[C@]65O)C4)O[C@@H]3C)O[C@@H]2C)O[C@H](C)[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	CHEMBL506569
-FC(F)(F)Oc1cccc(Nc2ccnc(Nc3cccc(OC(F)(F)F)c3)n2)c1	CHEMBL5176406
-CC(=O)c1cccc(-c2cc(Nc3ccc(OC(F)(F)F)cc3)ncn2)c1	CHEMBL5182661
-CC[C@H](C)[C@H]1O[C@]2(CC[C@@H]1C)C[C@@H]1C[C@@H](C/C=C(\C)[C@@H](O[C@H]3C[C@H](OC)[C@@H](O[C@H]4C[C@H](OC)[C@@H](O)[C@H](C)O4)[C@H](C)O3)[C@@H](C)/C=C/C=C3\CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2	CHEMBL263291
